@@ -5,6 +5,10 @@ Overview
 
 This repository is associated with the paper "Satellite and eddy covariance analysis reveals fire-induced changes to Mediterranean woodland evapotranspiration" by Hoang Long Nguyen, Simone Gelsinari, Nikolaus Callow, Richard Silberstein and Sally Thompson (2024).
 
+<p align="center">
+  <img src="figs/drone_footage.JPG" />
+</p>
+
 Data
 --------
  - Eddy covariance (EC) ET measurement and its predicted north and south measurements (CSV).
