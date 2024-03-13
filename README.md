@@ -13,7 +13,7 @@ Data
 --------
  - Eddy covariance (EC) ET measurement and its predicted north and south measurements (CSV).
  - SEBAL ET measurement and its north and south representations (CSV).
- - The flux footprint portion of non-overlapped north/south MODIS pixels as both PML and MOD16 both use MODIS pixel grid (XLSX). 
+ - The flux footprint portion of non-overlapped north/south MODIS pixels as PML and MOD16 both use MODIS pixel grid (XLSX). 
 
 Shapefile
 --------
