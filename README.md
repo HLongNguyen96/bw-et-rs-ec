@@ -20,7 +20,7 @@ Shapefile
  - Tower flux footprint.
  - PML and MOD16 non-overlapped north and south pixels, each category has three pixels.
 
-Analyse
+Analysis
 --------
  - Modified geeSEBAL model for the Mediterranean climate based on Laipelt et al (2021) and Awada et al (2019). 
  - Annual and monthly comparison between EC and remote sensing products, including CMRSET, MOD16, PML, and SEBAL.
