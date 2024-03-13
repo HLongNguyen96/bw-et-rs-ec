@@ -27,7 +27,7 @@ Analysis
  - Analysis of EC and remote sensing products and their components correlations.
  - Fire analysis using Differences-In-Differences approach. 
 
-References
+Reference
 --------
 > [1]. Burba, G., (2021) 
 Eddy covariance method for scientific, regulatory, and commercial applications. LI-COR Biosciences, 702.
