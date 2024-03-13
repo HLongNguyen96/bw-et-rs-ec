@@ -31,7 +31,7 @@ References
 --------
 > [1]. Burba, G., (2021) 
 Eddy covariance method for scientific, regulatory, and commercial applications. LI-COR Biosciences, 702.
-
+>
 > [2]. Guerschman, J.P., McVicar, T.R., Vleeshower, J., Van Niel, T.G., Pe ̃na-Arancibia, J.L., Chen, Y., (2022) 
 Estimating actual evapotranspiration at field-to-continent scales by calibrating the cmrset algorithm with modis, viirs, landsat and sentinel-2 data. Journal of Hydrology 605, 127318.
 >
