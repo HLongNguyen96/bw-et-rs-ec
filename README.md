@@ -6,25 +6,21 @@ Overview
 This repository is associated with the paper "Satellite and eddy covariance analysis reveals fire-induced changes to Mediterranean woodland evapotranspiration" by Hoang Long Nguyen, Simone Gelsinari, Nikolaus Callow, Richard Silberstein and Sally Thompson (2024).
 
 <p align="center">
-  <img src="figs/drone_footage.JPG" />
+  <img src="Figure/drone_footage.JPG" />
 </p>
 
 Data
 --------
  - Eddy covariance (EC) ET measurement and its predicted north and south measurements (CSV).
- - SEBAL ET measurement and its north and south representations (CSV).
- - The flux footprint portion of non-overlapped north/south MODIS pixels as PML and MOD16 both use MODIS pixel grid (XLSX). 
 
 Shapefile
 --------
- - Tower flux footprint.
- - PML and MOD16 non-overlapped north and south pixels, each category has three pixels.
+ - Tower flux footprint and its north and south sections
+ - PML and MOD16 non-overlapped north and south areas (see Figure 4 in the revised manuscript), each category has three pixels.
 
 Analysis
 --------
- - Modified geeSEBAL model for the Mediterranean climate based on Laipelt et al (2021) and Awada et al (2019). 
  - Annual and monthly comparison between EC and remote sensing products, including CMRSET, MOD16, PML, and SEBAL.
- - Analysis of EC and remote sensing products and their components correlations.
  - Fire analysis using Differences-In-Differences approach. 
 
 Reference
@@ -40,12 +36,6 @@ Improvements to a modis global terrestrial evapotranspiration algorithm. Remote 
 >
 > [4]. Zhang, Y., Kong, D., Gan, R., Chiew, F.H., McVicar, T.R., Zhang, Q., Yang, Y., (2019) 
 Coupled estimation of 500 m and 8-day resolution global evapotranspiration and gross primary production in 2002–2017. Remote sensing of environment 222, 165–182.
->
-> [5]. Laipelt, L., Kayser, R.H.B., Fleischmann, A.S., Ruhoff, A., Bastiaanssen,W., Erickson, T.A., Melton, F., (2021) 
-Long-term monitoring of evapotranspiration using the sebal algorithm and google earth engine cloud computing. ISPRS Journal of Photogrammetry and Remote Sensing 178, 81–96.
->
-> [6]. Awada, H., Di Prima, S., Sirca, C., Giadrossich, F., Marras, S., Spano,D., Pirastru, M., (2021) 
-Daily actual evapotranspiration estimation in a mediterranean ecosystem from landsat observations using sebal approach. Forests 12, 189.
 
 Question
 --------
