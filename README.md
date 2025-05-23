@@ -1,9 +1,9 @@
-Last updated: 03.2024
+Last updated: 05.2025
 
 Overview
 --------
 
-This repository is associated with the paper "Satellite and eddy covariance analysis reveals short-lived evapotranspiration changes after fire in Mediterranean woodland" by Hoang Long Nguyen, Simone Gelsinari, Nikolaus Callow, Richard Silberstein and Sally Thompson (2024).
+This repository is associated with the paper "Satellite and eddy covariance analysis reveals short-lived evapotranspiration changes after fire in Mediterranean woodland" by Hoang Long Nguyen, Simone Gelsinari, J. Nik Callow, Richard Silberstein and Sally E. Thompson (2025).
 
 <p align="center">
   <img src="Figure/drone_footage.JPG" />
