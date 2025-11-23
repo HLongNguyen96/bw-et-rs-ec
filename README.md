@@ -1,4 +1,4 @@
-Last updated: 05.2025
+Last updated: 11.2025
 
 Overview
 --------
@@ -11,7 +11,7 @@ This repository is associated with the paper "Satellite and eddy covariance anal
 
 Data
 --------
- - Eddy covariance (EC) ET measurement and its predicted north and south measurements (CSV).
+ - Eddy covariance (EC) ET measurement and its reconstracted north and south measurements (CSV).
 
 Shapefile
 --------
@@ -20,7 +20,8 @@ Shapefile
 
 Analysis
 --------
- - Annual and monthly comparison between EC and remote sensing products, including CMRSET, MOD16, PML, and SEBAL.
+ - Reconstruct eddy covariance ET north and south.
+ - Annual and monthly comparison between EC and remote sensing products, including CMRSET, MOD16, and PML.
  - Fire analysis using Differences-In-Differences approach. 
 
 Reference
